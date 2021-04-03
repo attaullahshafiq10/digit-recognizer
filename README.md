@@ -12,6 +12,4 @@ Training: 42k labeled images
 
 Testing: 28k unlabeled images
 
-## Implementation
 
-Our goal is very straightforward and clear so let’s get straight to the building of the classifier.
